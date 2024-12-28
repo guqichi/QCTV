@@ -1,4 +1,11 @@
-Name: CCTV-11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 680ms
-Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 674ms
-Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 218ms
-Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 102ms
+Name: CCTV-4, URL: http://121.24.98.226:8090/hls/12/index.m3u8, Date: None, Resolution: None, Response Time: 516ms
+Name: CCTV-8, URL: http://121.24.98.226:8090/hls/16/index.m3u8, Date: None, Resolution: None, Response Time: 517ms
+Name: CCTV-11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 1662ms
+Name: 安徽卫视, URL: http://121.24.98.226:8090/hls/81/index.m3u8, Date: None, Resolution: None, Response Time: 515ms
+Name: 东南卫视, URL: http://121.24.98.226:8090/hls/36/index.m3u8, Date: None, Resolution: None, Response Time: 517ms
+Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 630ms
+Name: 河北卫视, URL: http://121.24.98.226:8090/hls/25/index.m3u8, Date: None, Resolution: None, Response Time: 517ms
+Name: 山西卫视, URL: http://121.24.98.226:8090/hls/35/index.m3u8, Date: None, Resolution: None, Response Time: 1101ms
+Name: 新疆卫视, URL: http://121.24.98.226:8090/hls/61/index.m3u8, Date: None, Resolution: None, Response Time: 516ms
+Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 204ms
+Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 34ms
